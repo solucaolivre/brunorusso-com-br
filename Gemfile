@@ -8,15 +8,14 @@ group :test do
   gem "html-proofer", "~> 3.18"
 end
 
-gem 'jekyll-paginate'
-gem 'jekyll-analytics'
 gem 'racc', '~>1.5.2'
-gem 'http_parser', '~> 0.1.3'
 gem 'http_parser.rb', '~> 0.6.0'
 gem 'eventmachine'
 
 group :jekyll_plugins do
     gem "jekyll-youtube"
+    gem 'jekyll-paginate'
+    gem 'jekyll-analytics'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
