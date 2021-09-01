@@ -13,7 +13,7 @@ kramdown:
 
 # Import the theme
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 
