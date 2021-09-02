@@ -185,10 +185,10 @@ jekyll-archives:
     category: /categories/:name/
 
 
-plugins:
-  - jekyll-analytics
+#plugins:
+#  - jekyll-analytics
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-49251047-1      # Required - replace with your tracking id
-    anonymizeIp: false
+#jekyll_analytics:
+#  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+#    id: UA-49251047-1      # Required - replace with your tracking id
+#    anonymizeIp: false
