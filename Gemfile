@@ -31,4 +31,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "jekyll-theme-chirpy"
 gem "youtube"
 
-gem "ffi", "~> 1.15.4"
+#gem "ffi", "~> 1.15.4"
